@@ -31,32 +31,38 @@ System.
 ### UML DIAGRAMS:
 #### Usecase Diagram:
 
-<img width="1192" height="913" alt="image" src="https://github.com/user-attachments/assets/8d2653ab-78f5-4970-95b1-65fe1b396f1a" />
+![UseCaseDiagram1](https://github.com/user-attachments/assets/5cc08bcb-e02d-4c87-a91f-72a8f4742c98)
+
 <br>
 
 #### Class Diagram:
 
-<img width="1178" height="938" alt="image" src="https://github.com/user-attachments/assets/0291d41d-0d8a-483c-9527-a67eb6c87eb9" />
+![ClassDiagram1](https://github.com/user-attachments/assets/aa7a0f23-32f4-477b-b295-5acb283b33aa)
+
 <br>
 
 #### Activity Diagram:
 
-<img width="903" height="940" alt="image" src="https://github.com/user-attachments/assets/9d67f86e-677a-4794-a5ed-f1573fc92486" />
+![ActivityDiagram1](https://github.com/user-attachments/assets/3e2edebe-5fe4-4839-a592-099ff445f3a0)
+
 <br>
 
 #### Sequence Diagram:
 
-<img width="1015" height="912" alt="image" src="https://github.com/user-attachments/assets/f8387e17-48bd-4532-ad37-eea2431950e0" />
+![SequenceDiagram1](https://github.com/user-attachments/assets/e4e8d08c-9547-4eca-8afd-2a8c0b901992)
+
 <br>
 
 #### Communication Diagram:
 
-<img width="1047" height="852" alt="image" src="https://github.com/user-attachments/assets/dcc4160b-53fb-46b3-8627-b7338456f530" />
+![CommunicationDiagram1](https://github.com/user-attachments/assets/65312018-d8aa-44b1-8ecd-77f1234a2fdf)
+
 <br>
 
 #### Package Diagram:
 
-<img width="1190" height="512" alt="image" src="https://github.com/user-attachments/assets/645c5880-7f4d-4e9d-b1b5-2fb13581db35" />
+![PackageDiagram1](https://github.com/user-attachments/assets/843e5976-a666-4dcd-badf-a54b68dfadd0)
+
 
 <br>
 
